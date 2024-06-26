@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Vscode
+.vscode/
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# OS-specific
+*.swp
+*.swo
+._*
+.Spotlight-V100
+.Trashes
