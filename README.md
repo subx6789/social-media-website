@@ -32,7 +32,7 @@ This project is a backend for a social media website where users can create an a
 **Clone the repository:**
 
    ```bash
-    git clone https://github.com/your-username/social-media-backend.git
+    git clone https://github.com/subx6789/social-media-website.git
     cd social-media-backend
    ``` 
 
